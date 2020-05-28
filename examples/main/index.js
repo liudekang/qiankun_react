@@ -1,8 +1,5 @@
-import { registerMicroApps, runAfterFirstMounted, setDefaultMountApp, start } from '../../es';
+import { registerMicroApps, runAfterFirstMounted, setDefaultMountApp, start } from 'qiankun';
 import './index.less';
-
-// for angular subapp
-import 'zone.js';
 
 /**
  * 主应用 **可以使用任意技术栈**
@@ -42,12 +39,6 @@ registerMicroApps(
       entry: '//localhost:7101',
       render,
       activeRule: genActiveRule('/vue'),
-    },
-    {
-      name: 'angular9',
-      entry: '//localhost:7103',
-      render,
-      activeRule: genActiveRule('/angular9'),
     },
   ],
   {
