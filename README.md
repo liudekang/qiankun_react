@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # qiankun（乾坤）
 
 [![npm version](https://img.shields.io/npm/v/qiankun.svg?style=flat-square)](https://www.npmjs.com/package/qiankun) [![coverage](https://img.shields.io/codecov/c/github/umijs/qiankun.svg?style=flat-square)](https://codecov.io/gh/umijs/qiankun) [![npm downloads](https://img.shields.io/npm/dt/qiankun.svg?style=flat-square)](https://www.npmjs.com/package/qiankun) [![Build Status](https://img.shields.io/travis/umijs/qiankun.svg?style=flat-square)](https://travis-ci.org/umijs/qiankun)
@@ -83,4 +84,6 @@ https://qiankun.umijs.org/#community
 ## 🎁 Acknowledgements
 
 - [single-spa](https://github.com/CanopyTax/single-spa) What an awesome meta-framework for micro-frontends!
-- [import-html-entry](https://github.com/kuitos/import-html-entry/) An assets loader which supports html entry.
+- [import-html-entry](https://github.com/kuitos/import-html-entry/) An assets loader which supports html entry. 
+# qiankun_react
+乾坤微服务-react-分开开发 
